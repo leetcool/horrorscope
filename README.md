@@ -1,6 +1,12 @@
 # Horrorscope
 Just a simple terminal horoscope cow
 
+# Compile Instructions
+g++ horrorscope.cpp -o horroscope (What else did you expect? lol)
+
+# Download Prebuilt Files
+https://github.com/leetcool/horrorscope/releases
+
 # Dependencies:
 1. curl
 2. cowsay
