@@ -18,3 +18,6 @@ pkg install tsu curl cowsay ruby; gem install lolcat
 # Usage:
 1. place the binary in /usr/bin
 2. run from terminal
+
+# Enjoyed The Horror?
+Scroll up and click on sponsor to bribe me for making your horoscope nice.
