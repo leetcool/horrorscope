@@ -2,7 +2,7 @@
 Just a simple terminal horoscope cow
 
 # Dependencies:
-1. Curl
+1. curl
 2. cowsay
 3. lolcat (Via Ruby Gems)
 
