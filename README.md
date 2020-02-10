@@ -15,7 +15,8 @@ https://github.com/leetcool/horrorscope/releases
 3. lolcat (Via Ruby Gems)
 
 # For termux deps use this
-pkg install tsu curl cowsay ruby; gem install lolcat
+~~pkg install tsu curl cowsay ruby; gem install lolcat~~
+Use -d switch
 
 # Usage:
 1. place the binary in /usr/bin
