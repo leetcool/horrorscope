@@ -1,6 +1,7 @@
 # Horrorscope
 Just a simple terminal horoscope cow
 
+![alt Horrorscope](https://raw.githubusercontent.com/leetcool/horrorscope/master/horroscope.png)
 
 # Compile Instructions
 g++ horrorscope.cpp -o horroscope (What else did you expect? lol)
