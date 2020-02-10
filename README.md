@@ -1,5 +1,18 @@
 # Horrorscope
 Just a simple terminal horoscope cow
+Horrorscope Usage: ./horrorscope <Optional Arguments> 
+
+Dependencies : 		curl,cowsay,lolcat
+
+Options:
+	-1		Show yesterday's horoscope
+	+1		Show tomorrow's horoscope
+	-r		Reset the config file
+	-d		Install dependencies (Only Termux) 
+	-h		Show this help message
+	NO ARGUMENT	Show today's horoscope
+
+Repo:	https://github.com/leetcool/horrorscope
 
 # Compile Instructions
 g++ horrorscope.cpp -o horroscope (What else did you expect? lol)
