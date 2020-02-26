@@ -1,3 +1,5 @@
 compiler: clang
 language: cpp
 os: linux
+before_install:
+  - chmod +x configure
